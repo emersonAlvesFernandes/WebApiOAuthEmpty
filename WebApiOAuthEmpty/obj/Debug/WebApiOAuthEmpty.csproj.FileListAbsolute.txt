@@ -1,0 +1,134 @@
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\ApplicationInsights.config
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csc.exe
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csc.exe.config
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csc.rsp
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csi.exe
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csi.rsp
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.AppContext.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.Collections.Immutable.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.IO.FileSystem.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\vbc.exe
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\vbc.exe.config
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\vbc.rsp
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\VBCSCompiler.exe
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\VBCSCompiler.exe.config
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\WebApiOAuthEmpty.dll.config
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\WebApiOAuthEmpty.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\WebApiOAuthEmpty.pdb
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.Web.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.WindowsServer.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.ApplicationInsights.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Cors.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Security.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Newtonsoft.Json.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Owin.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Net.Http.Formatting.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Cors.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Http.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Http.Owin.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.Web.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.WindowsServer.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.ApplicationInsights.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Cors.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Security.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Newtonsoft.Json.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Net.Http.Formatting.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Http.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Http.Owin.xml
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\obj\Debug\WebApiOAuthEmpty.csprojResolveAssemblyReference.cache
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\obj\Debug\WebApiOAuthEmpty.dll
+c:\users\emerson\documents\visual studio 2015\Projects\WebApiOAuthEmpty\WebApiOAuthEmpty\obj\Debug\WebApiOAuthEmpty.pdb
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\ApplicationInsights.config
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csc.exe
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csc.exe.config
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csc.rsp
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csi.exe
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\csi.rsp
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.AppContext.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.Collections.Immutable.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.IO.FileSystem.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\System.Reflection.Metadata.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\vbc.exe
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\vbc.exe.config
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\vbc.rsp
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\VBCSCompiler.exe
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\roslyn\VBCSCompiler.exe.config
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\WebApiOAuthEmpty.dll.config
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\WebApiOAuthEmpty.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\WebApiOAuthEmpty.pdb
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.Agent.Intercept.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.DependencyCollector.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.Web.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.WindowsServer.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.ApplicationInsights.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Cors.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Security.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Security.OAuth.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Newtonsoft.Json.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Owin.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Net.Http.Formatting.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Cors.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Http.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Http.Owin.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.DependencyCollector.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.Web.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.AI.WindowsServer.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.ApplicationInsights.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Cors.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Security.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Microsoft.Owin.Security.OAuth.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\Newtonsoft.Json.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Net.Http.Formatting.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Http.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\bin\System.Web.Http.Owin.xml
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\obj\Debug\WebApiOAuthEmpty.csprojResolveAssemblyReference.cache
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\obj\Debug\WebApiOAuthEmpty.dll
+D:\EMERSON\FILES\FILES\12 - Material de Estudos\APLICAÇÕES\WebApiOAuthEmpty\WebApiOAuthEmpty\obj\Debug\WebApiOAuthEmpty.pdb
